@@ -10,7 +10,7 @@ body{
 }
 .base{
     width: 500px;
-    margin:  1em auto;
+    margin:  3em auto;
     text-align: center;
 }
 .form{
@@ -22,6 +22,7 @@ body{
 .title{
     margin-bottom: .5em;
     color: red;
+    font-size: 2.5em;
 }
 .item-input {
    display: flex;
@@ -32,7 +33,7 @@ body{
 
 .item-input input, textarea{
     width: 100%;
-    padding:.7em;
+    padding:1em;
     border: none;
     margin: .3em;
 }
